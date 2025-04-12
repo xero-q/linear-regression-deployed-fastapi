@@ -1,6 +1,6 @@
 ### Model of Linear Regression
 
-This model was trained with data from the athletes.csv file. It can predict the weight of an athlete based on his/her height and gender.
+This model was trained with data from the athletes.csv file using scikit-learn library. It can predict the weight of an athlete based on his/her height and gender.
 
 Endpoint structure:
 
